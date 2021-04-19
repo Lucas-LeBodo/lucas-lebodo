@@ -8,4 +8,4 @@ I'm part of a discord developer community whose goal is to offer an e-learning p
 
 Skills: VUE JS / REACT / JS / HTML / CSS
 
-[![Lucas-LeBodo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas-LeBodo&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Lucas-LeBodo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas-LeBodo&show_icons=true&theme=merko&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
