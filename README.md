@@ -8,6 +8,6 @@ I'm part of a discord developer community whose goal is to offer an e-learning p
 
 Skills: VUE JS / REACT / JS / HTML / CSS
 
-[![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas-LeBodo&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-LeBodo&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Lucas's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?Lucas-LeBodo&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas-LeBodo&show_icons=true&theme=Gradient&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-LeBodo&theme=Gradient&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Lucas's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Lucas)](https://github.com/anuraghazra/github-readme-stats)
